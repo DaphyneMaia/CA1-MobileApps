@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Mobile Apps 1</string>
+    <string name="name">Daphyne da Maia</string>
+    <string name="bsc">BSC</string>
+    <string name="github_profile">GitHub-Profile</string>
+    <string name="link_action_button">link_action_button</string>
+    <string name="education">Education</string>
 </resources>
